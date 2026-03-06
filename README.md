@@ -1,3 +1,6 @@
+Modified version of DG4SN's firmware.
+OLED display rotated 180 degrees
+
 # Antenna tuner - ATU-100 EXT - Yet Another Firmware
 ![ATU-100_EXT_YAF](images/ATU-100_EXT_YAF.jpg)
 
